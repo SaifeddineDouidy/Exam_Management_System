@@ -121,10 +121,10 @@ spring.datasource.password=votre_mot_de_passe
 
 ## 🤝 Contributors
 
-📧 Radwa Fattouhi : [fattouhiradwa@gmail.com]
-📧 Aya Elloubab : [ayaelloubab@gmail.com]
-📧 Amine Boktaya : [fattouhiradwa@gmail.com]
-📧 Sifeddine Douidy : [boktayaamine@gmail.com.com]
+- 📧 Radwa Fattouhi : [fattouhiradwa@gmail.com]
+- 📧 Aya Elloubab : [ayaelloubab@gmail.com]
+- 📧 Amine Boktaya : [fattouhiradwa@gmail.com]
+- 📧 Sifeddine Douidy : [boktayaamine@gmail.com.com]
 
 
 
